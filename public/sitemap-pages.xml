@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Homepage -->
+  <url>
+    <loc>https://webegypt-site.firebaseapp.com/</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://webegypt-site.firebaseapp.com/ar" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://webegypt-site.firebaseapp.com/en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://webegypt-site.firebaseapp.com/ar" />
+   <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://webegypt-site.firebaseapp.com/ar</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://webegypt-site.firebaseapp.com/ar" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://webegypt-site.firebaseapp.com/en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://webegypt-site.firebaseapp.com/ar" />
+   <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://webegypt-site.firebaseapp.com/en</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://webegypt-site.firebaseapp.com/ar" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://webegypt-site.firebaseapp.com/en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://webegypt-site.firebaseapp.com/ar" />
+   <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- About -->
+  <url>
+    <loc>https://webegypt-site.firebaseapp.com/ar/about</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://webegypt-site.firebaseapp.com/ar/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://webegypt-site.firebaseapp.com/en/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://webegypt-site.firebaseapp.com/ar/about" />
+   <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://webegypt-site.firebaseapp.com/en/about</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://webegypt-site.firebaseapp.com/ar/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://webegypt-site.firebaseapp.com/en/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://webegypt-site.firebaseapp.com/ar/about" />
+   <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Contact -->
+  <url>
+    <loc>https://webegypt-site.firebaseapp.com/ar/contact</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://webegypt-site.firebaseapp.com/ar/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://webegypt-site.firebaseapp.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://webegypt-site.firebaseapp.com/ar/contact" />
+   <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://webegypt-site.firebaseapp.com/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://webegypt-site.firebaseapp.com/ar/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://webegypt-site.firebaseapp.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://webegypt-site.firebaseapp.com/ar/contact" />
+   <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Portfolio -->
+  <url>
+    <loc>https://webegypt-site.firebaseapp.com/ar/portfolio</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://webegypt-site.firebaseapp.com/ar/portfolio" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://webegypt-site.firebaseapp.com/en/portfolio" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://webegypt-site.firebaseapp.com/ar/portfolio" />
+   <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://webegypt-site.firebaseapp.com/en/portfolio</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://webegypt-site.firebaseapp.com/ar/portfolio" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://webegypt-site.firebaseapp.com/en/portfolio" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://webegypt-site.firebaseapp.com/ar/portfolio" />
+   <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>
