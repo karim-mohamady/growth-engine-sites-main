@@ -67,7 +67,7 @@ Each page includes:
 
 All URLs include hreflang alternates for international SEO.
 
---
+---
 
 ## 🚀 Local Development
 
